@@ -1,4 +1,4 @@
-Project Title: Synthetic EV Battery Data Simulation and Predictive Modeling
+#Project Title: Synthetic EV Battery Data Simulation and Predictive Modeling
 
 Project Description:
 This project simulates synthetic data for electric vehicle (EV) batteries, focusing on key parameters such as the State of Health (SoH), State of Charge (SoC), Temperature, Voltage, and Current across 1000 charge-discharge cycles. The data is generated to mimic the behavior of EV batteries over time, providing a rich dataset for building predictive models to estimate the battery's State of Health (SoH).
