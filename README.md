@@ -25,7 +25,7 @@ Installation and Usage:
 Clone this repository:
 bash
 Copy code
-git clone https://github.com/your-username/synthetic-ev-battery-predictive-model.git
+git clone (https://github.com/Mayank-chikane/EV-Battery-Health)
 Install dependencies:
 bash
 Copy code
